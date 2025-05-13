@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+h5py
+obspy
+seisbench
+torch
+cartopy
